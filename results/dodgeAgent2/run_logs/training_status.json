@@ -1,0 +1,65 @@
+{
+    "Dodge": {
+        "checkpoints": [
+            {
+                "steps": 999980,
+                "file_path": "results\\dodgeAgent2\\Dodge\\Dodge-999980.onnx",
+                "reward": 0.6344825687079594,
+                "creation_time": 1652629674.8342876,
+                "auxillary_file_paths": [
+                    "results\\dodgeAgent2\\Dodge\\Dodge-999980.pt"
+                ]
+            },
+            {
+                "steps": 1499989,
+                "file_path": "results\\dodgeAgent2\\Dodge\\Dodge-1499989.onnx",
+                "reward": null,
+                "creation_time": 1652630002.9213388,
+                "auxillary_file_paths": [
+                    "results\\dodgeAgent2\\Dodge\\Dodge-1499989.pt"
+                ]
+            },
+            {
+                "steps": 1999980,
+                "file_path": "results\\dodgeAgent2\\Dodge\\Dodge-1999980.onnx",
+                "reward": 0.49499981105327606,
+                "creation_time": 1652630329.8668845,
+                "auxillary_file_paths": [
+                    "results\\dodgeAgent2\\Dodge\\Dodge-1999980.pt"
+                ]
+            },
+            {
+                "steps": 2499971,
+                "file_path": "results\\dodgeAgent2\\Dodge\\Dodge-2499971.onnx",
+                "reward": null,
+                "creation_time": 1652630656.933838,
+                "auxillary_file_paths": [
+                    "results\\dodgeAgent2\\Dodge\\Dodge-2499971.pt"
+                ]
+            },
+            {
+                "steps": 2881005,
+                "file_path": "results\\dodgeAgent2\\Dodge\\Dodge-2881005.onnx",
+                "reward": null,
+                "creation_time": 1652630906.4219506,
+                "auxillary_file_paths": [
+                    "results\\dodgeAgent2\\Dodge\\Dodge-2881005.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2881005,
+            "file_path": "results\\dodgeAgent2\\Dodge.onnx",
+            "reward": null,
+            "creation_time": 1652630906.4219506,
+            "auxillary_file_paths": [
+                "results\\dodgeAgent2\\Dodge\\Dodge-2881005.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

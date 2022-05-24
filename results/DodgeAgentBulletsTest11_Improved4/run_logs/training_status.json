@@ -1,0 +1,65 @@
+{
+    "Dodge": {
+        "checkpoints": [
+            {
+                "steps": 26498251,
+                "file_path": "results\\DodgeAgentBulletsTest11_Improved4\\Dodge\\Dodge-26498251.onnx",
+                "reward": null,
+                "creation_time": 1652715233.4970999,
+                "auxillary_file_paths": [
+                    "results\\DodgeAgentBulletsTest11_Improved4\\Dodge\\Dodge-26498251.pt"
+                ]
+            },
+            {
+                "steps": 26998727,
+                "file_path": "results\\DodgeAgentBulletsTest11_Improved4\\Dodge\\Dodge-26998727.onnx",
+                "reward": 40.1999990940094,
+                "creation_time": 1652715556.6670935,
+                "auxillary_file_paths": [
+                    "results\\DodgeAgentBulletsTest11_Improved4\\Dodge\\Dodge-26998727.pt"
+                ]
+            },
+            {
+                "steps": 27498366,
+                "file_path": "results\\DodgeAgentBulletsTest11_Improved4\\Dodge\\Dodge-27498366.onnx",
+                "reward": null,
+                "creation_time": 1652715878.3379133,
+                "auxillary_file_paths": [
+                    "results\\DodgeAgentBulletsTest11_Improved4\\Dodge\\Dodge-27498366.pt"
+                ]
+            },
+            {
+                "steps": 27999874,
+                "file_path": "results\\DodgeAgentBulletsTest11_Improved4\\Dodge\\Dodge-27999874.onnx",
+                "reward": null,
+                "creation_time": 1652716161.104977,
+                "auxillary_file_paths": [
+                    "results\\DodgeAgentBulletsTest11_Improved4\\Dodge\\Dodge-27999874.pt"
+                ]
+            },
+            {
+                "steps": 28401201,
+                "file_path": "results\\DodgeAgentBulletsTest11_Improved4\\Dodge\\Dodge-28401201.onnx",
+                "reward": null,
+                "creation_time": 1652716393.7297838,
+                "auxillary_file_paths": [
+                    "results\\DodgeAgentBulletsTest11_Improved4\\Dodge\\Dodge-28401201.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 28401201,
+            "file_path": "results\\DodgeAgentBulletsTest11_Improved4\\Dodge.onnx",
+            "reward": null,
+            "creation_time": 1652716393.7297838,
+            "auxillary_file_paths": [
+                "results\\DodgeAgentBulletsTest11_Improved4\\Dodge\\Dodge-28401201.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

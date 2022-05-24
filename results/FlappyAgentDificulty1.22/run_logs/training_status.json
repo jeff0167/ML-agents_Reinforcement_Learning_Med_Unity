@@ -1,0 +1,29 @@
+{
+    "FlappAndSwitch": {
+        "checkpoints": [
+            {
+                "steps": 100475,
+                "file_path": "results\\FlappyAgentDificulty1.22\\FlappAndSwitch\\FlappAndSwitch-100475.onnx",
+                "reward": 68.23371174756218,
+                "creation_time": 1651940295.9140716,
+                "auxillary_file_paths": [
+                    "results\\FlappyAgentDificulty1.22\\FlappAndSwitch\\FlappAndSwitch-100475.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 100475,
+            "file_path": "results\\FlappyAgentDificulty1.22\\FlappAndSwitch.onnx",
+            "reward": 68.23371174756218,
+            "creation_time": 1651940295.9140716,
+            "auxillary_file_paths": [
+                "results\\FlappyAgentDificulty1.22\\FlappAndSwitch\\FlappAndSwitch-100475.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

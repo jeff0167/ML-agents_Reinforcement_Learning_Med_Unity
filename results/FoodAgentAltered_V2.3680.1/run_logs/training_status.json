@@ -1,0 +1,47 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 499956,
+                "file_path": "results\\FoodAgentAltered_V2.3680.1\\MoveToGoal\\MoveToGoal-499956.onnx",
+                "reward": 1.786971543942179,
+                "creation_time": 1651568484.633714,
+                "auxillary_file_paths": [
+                    "results\\FoodAgentAltered_V2.3680.1\\MoveToGoal\\MoveToGoal-499956.pt"
+                ]
+            },
+            {
+                "steps": 999999,
+                "file_path": "results\\FoodAgentAltered_V2.3680.1\\MoveToGoal\\MoveToGoal-999999.onnx",
+                "reward": 1.8460001225272815,
+                "creation_time": 1651569032.7072232,
+                "auxillary_file_paths": [
+                    "results\\FoodAgentAltered_V2.3680.1\\MoveToGoal\\MoveToGoal-999999.pt"
+                ]
+            },
+            {
+                "steps": 1000180,
+                "file_path": "results\\FoodAgentAltered_V2.3680.1\\MoveToGoal\\MoveToGoal-1000180.onnx",
+                "reward": 1.84587512165308,
+                "creation_time": 1651569032.7774181,
+                "auxillary_file_paths": [
+                    "results\\FoodAgentAltered_V2.3680.1\\MoveToGoal\\MoveToGoal-1000180.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000180,
+            "file_path": "results\\FoodAgentAltered_V2.3680.1\\MoveToGoal.onnx",
+            "reward": 1.84587512165308,
+            "creation_time": 1651569032.7774181,
+            "auxillary_file_paths": [
+                "results\\FoodAgentAltered_V2.3680.1\\MoveToGoal\\MoveToGoal-1000180.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

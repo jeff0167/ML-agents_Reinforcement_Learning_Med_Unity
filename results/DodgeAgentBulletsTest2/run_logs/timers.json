@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1652638502",
+        "python_version": "3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\Bobby\\Documents\\UnityProjects\\MLAgents_Intro\\venv\\Scripts\\mlagents-learn config/dodgeAgent.yml --run-id=DodgeAgentBulletsTest2",
+        "mlagents_version": "0.28.0",
+        "mlagents_envs_version": "0.28.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.5",
+        "end_time_seconds": "1652638577"
+    },
+    "total": 75.3301278,
+    "count": 1,
+    "self": 0.010636700000006272,
+    "children": {
+        "run_training.setup": {
+            "total": 0.0871567000000002,
+            "count": 1,
+            "self": 0.0871567000000002
+        },
+        "TrainerController.start_learning": {
+            "total": 75.2323344,
+            "count": 1,
+            "self": 0.0006710000000111904,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 75.2316482,
+                    "count": 1,
+                    "self": 75.2316482
+                },
+                "trainer_threads": {
+                    "total": 7.000000010748408e-07,
+                    "count": 1,
+                    "self": 7.000000010748408e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 1.4499999991812729e-05,
+                    "count": 1,
+                    "self": 1.4499999991812729e-05
+                }
+            }
+        }
+    }
+}

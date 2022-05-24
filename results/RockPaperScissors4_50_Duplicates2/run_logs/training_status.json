@@ -1,0 +1,65 @@
+{
+    "Strategy": {
+        "checkpoints": [
+            {
+                "steps": 124999,
+                "file_path": "results\\RockPaperScissors4_50_Duplicates2\\Strategy\\Strategy-124999.onnx",
+                "reward": 0.9975263157918265,
+                "creation_time": 1653231252.1833792,
+                "auxillary_file_paths": [
+                    "results\\RockPaperScissors4_50_Duplicates2\\Strategy\\Strategy-124999.pt"
+                ]
+            },
+            {
+                "steps": 129999,
+                "file_path": "results\\RockPaperScissors4_50_Duplicates2\\Strategy\\Strategy-129999.onnx",
+                "reward": 0.9977681159433247,
+                "creation_time": 1653231259.8515449,
+                "auxillary_file_paths": [
+                    "results\\RockPaperScissors4_50_Duplicates2\\Strategy\\Strategy-129999.pt"
+                ]
+            },
+            {
+                "steps": 134999,
+                "file_path": "results\\RockPaperScissors4_50_Duplicates2\\Strategy\\Strategy-134999.onnx",
+                "reward": 0.9989024390262075,
+                "creation_time": 1653231267.9341152,
+                "auxillary_file_paths": [
+                    "results\\RockPaperScissors4_50_Duplicates2\\Strategy\\Strategy-134999.pt"
+                ]
+            },
+            {
+                "steps": 139999,
+                "file_path": "results\\RockPaperScissors4_50_Duplicates2\\Strategy\\Strategy-139999.onnx",
+                "reward": 0.9987198795191944,
+                "creation_time": 1653231273.1396084,
+                "auxillary_file_paths": [
+                    "results\\RockPaperScissors4_50_Duplicates2\\Strategy\\Strategy-139999.pt"
+                ]
+            },
+            {
+                "steps": 143300,
+                "file_path": "results\\RockPaperScissors4_50_Duplicates2\\Strategy\\Strategy-143300.onnx",
+                "reward": 0.9991449552366413,
+                "creation_time": 1653231280.896249,
+                "auxillary_file_paths": [
+                    "results\\RockPaperScissors4_50_Duplicates2\\Strategy\\Strategy-143300.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 143300,
+            "file_path": "results\\RockPaperScissors4_50_Duplicates2\\Strategy.onnx",
+            "reward": 0.9991449552366413,
+            "creation_time": 1653231280.896249,
+            "auxillary_file_paths": [
+                "results\\RockPaperScissors4_50_Duplicates2\\Strategy\\Strategy-143300.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

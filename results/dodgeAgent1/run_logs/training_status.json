@@ -1,0 +1,65 @@
+{
+    "Dodge": {
+        "checkpoints": [
+            {
+                "steps": 2499995,
+                "file_path": "results\\dodgeAgent1\\Dodge\\Dodge-2499995.onnx",
+                "reward": 0.3954384551759352,
+                "creation_time": 1652626106.215824,
+                "auxillary_file_paths": [
+                    "results\\dodgeAgent1\\Dodge\\Dodge-2499995.pt"
+                ]
+            },
+            {
+                "steps": 2999987,
+                "file_path": "results\\dodgeAgent1\\Dodge\\Dodge-2999987.onnx",
+                "reward": null,
+                "creation_time": 1652626382.986056,
+                "auxillary_file_paths": [
+                    "results\\dodgeAgent1\\Dodge\\Dodge-2999987.pt"
+                ]
+            },
+            {
+                "steps": 3499983,
+                "file_path": "results\\dodgeAgent1\\Dodge\\Dodge-3499983.onnx",
+                "reward": 0.5588504171919548,
+                "creation_time": 1652626748.6903632,
+                "auxillary_file_paths": [
+                    "results\\dodgeAgent1\\Dodge\\Dodge-3499983.pt"
+                ]
+            },
+            {
+                "steps": 3999938,
+                "file_path": "results\\dodgeAgent1\\Dodge\\Dodge-3999938.onnx",
+                "reward": 0.8522220179438591,
+                "creation_time": 1652627138.2318301,
+                "auxillary_file_paths": [
+                    "results\\dodgeAgent1\\Dodge\\Dodge-3999938.pt"
+                ]
+            },
+            {
+                "steps": 4400056,
+                "file_path": "results\\dodgeAgent1\\Dodge\\Dodge-4400056.onnx",
+                "reward": 0.4102701150082253,
+                "creation_time": 1652627374.5714018,
+                "auxillary_file_paths": [
+                    "results\\dodgeAgent1\\Dodge\\Dodge-4400056.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4400056,
+            "file_path": "results\\dodgeAgent1\\Dodge.onnx",
+            "reward": 0.4102701150082253,
+            "creation_time": 1652627374.5714018,
+            "auxillary_file_paths": [
+                "results\\dodgeAgent1\\Dodge\\Dodge-4400056.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
